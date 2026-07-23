@@ -1,215 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20Vishal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=180&section=header&text=Vishal%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Software%20Engineering&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+end-to-end+Machine+Learning+solutions;Turning+raw+data+into+real+insights;Currently+seeking+ML+%2F+Data+Science+Internships!" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Data+Science+Intern+Candidate;Building+classification+pipelines+%26+DSA+solutions;Python+%7C+SQL+%7C+C%2B%2B+%7C+Web+Development" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="mailto:vs25052006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vs25052006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/vishal-sharma-1046b6339/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/VishalSharma2112">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=VishalSharma2112&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/VishalSharma2112?style=for-the-badge&color=2C5364&labelColor=0F2027)
+<a href="mailto:vs25052006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishal-sharma-1046b6339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/VishalSharma2112"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/oRwQDZGXVh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## 🧭 Quick Navigation
+## About
 
-<div align="center">
-
-[![About](https://img.shields.io/badge/📖_About-2C5364?style=for-the-badge)](#-about-me)
-[![Skills](https://img.shields.io/badge/🛠️_Skills-2C5364?style=for-the-badge)](#️-technical-arsenal)
-[![Projects](https://img.shields.io/badge/🚀_Projects-2C5364?style=for-the-badge)](#-featured-projects)
-[![Stats](https://img.shields.io/badge/📊_Stats-2C5364?style=for-the-badge)](#-github-analytics)
-[![Contact](https://img.shields.io/badge/📫_Contact-2C5364?style=for-the-badge)](#-lets-connect)
-
-</div>
+- Computer Science student focused on **Machine Learning, Data Science, and Software Engineering**, with a working foundation in **Deep Learning** and **DSA in C++**.
+- Built and evaluated classification pipelines (Logistic Regression, Random Forest, SVM, XGBoost) with full EDA, feature engineering, and model evaluation via ROC-AUC.
+- Comfortable across the stack — from SQL-driven data analysis to front-end implementation in HTML/CSS/JS.
+- Actively solving algorithmic problems (DP, graphs, backtracking, greedy) to strengthen core CS fundamentals.
+- Currently deepening skills in **model deployment and MLOps** to move projects from notebook to production.
 
 ---
 
-## 📖 About Me
+## Tech Stack
 
-```python
-class VishalSharma:
-    def __init__(self):
-        self.role = "Computer Science Student"
-        self.focus = ["Machine Learning", "Data Science", "Software Development"]
-        self.currently_seeking = "ML / Data Science Internship"
-        self.currently_learning = ["MLOps", "Model Deployment", "Deep Learning"]
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something data-driven! 🚀")
+**Machine Learning & Deep Learning**
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
-me = VishalSharma()
-me.say_hi()
-```
+**Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 🎓 Computer Science student passionate about **Machine Learning, Data Science & Software Development**
-- 🧪 I enjoy building **end-to-end ML projects**, analyzing real-world datasets, and sharpening my problem-solving through **DSA**
-- 💼 Currently looking for **Machine Learning / Data Science Internship** opportunities
-- 🌱 Currently deepening my skills in **Advanced ML, Model Deployment, MLOps & Deep Learning**
-- ⚡ Fun fact: I like turning messy datasets into clean, actionable insights
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Machine Learning & Data Science
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C7CBF?style=for-the-badge&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-</div>
-
-<details>
-<summary><b>📌 Click to see my Skill Proficiency Breakdown</b></summary>
-<br/>
-
-| Category | Skills | Proficiency |
-|---|---|---|
-| **Machine Learning** | Classification, Feature Engineering, Model Evaluation, ML Pipelines | ⭐⭐⭐⭐☆ |
-| **Data Analysis** | EDA, Pandas, NumPy, Visualization | ⭐⭐⭐⭐☆ |
-| **Programming** | Python, C++, SQL | ⭐⭐⭐⭐☆ |
-| **Web Dev** | HTML, CSS, JavaScript | ⭐⭐⭐☆☆ |
-| **DSA** | DP, Backtracking, Graphs, Greedy | ⭐⭐⭐⭐☆ |
-
-</details>
+**Core CS**
+`Data Structures` • `Algorithms` • `OOP` • `DBMS` • `Dynamic Programming` • `Graph Algorithms`
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<div align="center">
+**Heart Disease Prediction**
+Classification model estimating cardiovascular risk from patient clinical data.
+`Logistic Regression` `Random Forest` `SVM` — evaluated via confusion matrix and ROC-AUC across models.
 
-### 🤖 Machine Learning
+**Diabetes Prediction**
+End-to-end ML pipeline classifying diabetic risk from structured health records.
+`XGBoost` `Feature Importance` — pipeline built for reproducible train/test evaluation.
 
-<table>
-<tr>
-<td width="50%">
+**Breast Cancer Classification**
+Malignant vs. benign tumor classifier with feature ablation to test model robustness.
+`Scikit-learn` — isolates which features drive prediction accuracy.
 
-**🫀 Heart Disease Prediction**
-Predicting heart disease risk using classification models with full EDA and feature engineering.
-`Logistic Regression` `Random Forest` `SVM`
+**Credit Scoring Model**
+Creditworthiness classifier packaged as a reusable, deployable pipeline.
+`Scikit-learn Pipelines` `Joblib` — model persisted for inference without retraining.
 
-</td>
-<td width="50%">
+**E-Commerce Sales Analysis** *(Python + SQL)*
+Cleaned and analyzed e-commerce transaction data for business KPIs; parallel SQL version answers the same questions via query design.
+`Pandas` `Matplotlib` `MySQL`
 
-**🩸 Diabetes Prediction**
-End-to-end ML pipeline to classify diabetic risk from patient health data.
-`XGBoost` `Feature Importance` `ROC-AUC`
+**Amazon Homepage Clone** — [`repo`](https://github.com/VishalSharma2112/Amazon-Homepage-UI)
+Responsive recreation of the Amazon homepage layout using pure HTML/CSS (Flexbox, no JS).
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Rock Paper Scissors** — [`repo`](https://github.com/VishalSharma2112/rock-paper-scissors-js)
+Browser game with score tracking, local storage persistence, and auto-play mode.
+`JavaScript`
 
-**🎗 Breast Cancer Prediction**
-Classification model distinguishing malignant vs benign tumors with feature ablation analysis.
-`Scikit-learn` `Model Evaluation`
-
-</td>
-<td width="50%">
-
-**💳 Credit Scoring Model**
-Predicting creditworthiness using structured pipelines and saved models via Joblib.
-`Pipelines` `Joblib` `Feature Engineering`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<details>
-<summary><b>🔍 Key ML Concepts Applied Across Projects</b></summary>
-<br/>
-
-`Data Cleaning` • `Feature Engineering` • `EDA` • `Pipelines` • `Logistic Regression` • `Random Forest` • `SVM` • `XGBoost` • `Feature Importance` • `Feature Ablation` • `ROC Curve & AUC` • `Model Saving with Joblib`
-
-</details>
-
-<br/>
-
-<div align="center">
-
-### 📊 Data Analytics
-
-</div>
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 📈 **Python E-Commerce Sales Analysis** | Cleaned & analyzed e-commerce sales data to extract business insights | Python, Pandas, Matplotlib |
-| 🗄 **SQL E-Commerce Analysis** | Wrote KPI-driven SQL queries to analyze sales performance | MySQL |
-| 📊 **Excel Sales Dashboard** | Built an interactive dashboard for sales KPI tracking | Excel |
-
-<br/>
-
-<div align="center">
-
-### 💻 Frontend Projects
-
-</div>
-
-| Project | Description |
-|---|---|
-| 🛒 **Amazon Homepage Clone** | Pixel-close recreation of the Amazon homepage UI |
-| 🧮 **Calculator App** | A fully functional calculator built with vanilla JS |
-| ✊ **Rock Paper Scissors Game** | Interactive browser game with score tracking |
-
-<sub>Built with: `HTML` `CSS` `JavaScript`</sub>
-
-<br/>
-
-<div align="center">
-
-### 🧠 Data Structures & Algorithms
-
-</div>
-
-> A dedicated repository containing solutions to algorithmic problems in **C++**, covering:
-
-`Dynamic Programming` • `Backtracking` • `Recursion` • `Searching` • `Sorting` • `Graph Algorithms` • `Greedy Algorithms`
+**DSA in C++** — [`repo`](https://github.com/VishalSharma2112/ADA_lab)
+Algorithmic problem-solving covering dynamic programming, backtracking, recursion, and graph/greedy algorithms.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -218,56 +102,20 @@ Predicting creditworthiness using structured pipelines and saved models via Jobl
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalSharma2112&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalSharma2112&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff" width="90%"/>
-
-</div>
-
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VishalSharma2112&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</div>
-</details>
-
----
-
-## 🎯 Career Objective
-
-<div align="center">
-
-> *"To build practical AI and Machine Learning solutions while continuously improving my skills in Data Science, Software Development, and Problem Solving."*
-
 </div>
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
 <div align="center">
 
-I'm always open to discussing **Machine Learning projects, internships, or collaboration opportunities**. Feel free to reach out!
+Open to **Machine Learning / Data Science Internship** opportunities.
 
-<a href="mailto:vs25052006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-vs25052006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vishal-sharma-1046b6339/">
-  <img src="https://img.shields.io/badge/LinkedIn-vishal--sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/VishalSharma2112">
-  <img src="https://img.shields.io/badge/GitHub-VishalSharma2112-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="mailto:vs25052006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vishal-sharma-1046b6339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/VishalSharma2112"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-**Thanks for visiting my profile — drop a ⭐ on repos you find interesting!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
